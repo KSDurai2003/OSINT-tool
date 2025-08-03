@@ -1,0 +1,14 @@
+OSINT(TARGET INFORMATION GATHERING TOOL):
+	OSINT is project of basic information gathering tool about a target system. This project just for devlopement of basic lookup about target system  such as	
+	firewall checkup
+	shodon search gathering
+	subdomain enumeration with live status(online/offline)
+	pinging 
+	google dorking
+	whois information
+
+	
+options
+	no usages available to tools,
+	tools guides you
+Have a good day!

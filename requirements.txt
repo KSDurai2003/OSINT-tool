@@ -1,0 +1,6 @@
+urllib3 ==2.5.0
+playwright==1.53.0
+beautifulsoup4 ==4.13.4
+whois == 1.20240129.2
+selenium == 4.34.2
+requests == 2.32.3
