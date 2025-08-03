@@ -1,13 +1,12 @@
-Here's a polished and professional `README.md` file version of your content, formatted for clarity and easy readability on GitHub:
-
----
-
 # 🕵️ OSINT-Tools
 
 **OSINT-Tools** is a simple yet powerful collection of five tools designed for basic information gathering about a target system.
 This project was created as a functional tool for cybersecurity and reconnaissance learning purposes.
 
----
+## ⚠️ Prerequisites
+
+> **Important:**
+> Google Dorking functionality requires a basic understanding of advanced search operators. Use responsibly and ethically.
 
 ## 🔍 Features
 
@@ -20,7 +19,6 @@ This toolkit includes:
 * 🛰️ **Shodan Search Integration** – Query IoT search data for targets
 * 🗂️ **Domain Registry Info** – Fetch WHOIS data for target domains
 
----
 
 ## 🛠️ Installation
 
@@ -67,14 +65,8 @@ Follow the steps below to set up OSINT-Tools:
 
    The tool will guide you through available options interactively.
 
----
 
-## ⚠️ Prerequisites
 
-> **Important:**
-> Google Dorking functionality requires a basic understanding of advanced search operators. Use responsibly and ethically.
-
----
 
 ## 🙏 Thanks & Farewell
 
