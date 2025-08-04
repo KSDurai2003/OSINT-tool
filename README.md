@@ -43,7 +43,7 @@ Follow the steps below to set up OSINT-Tools:
 3. **Make the setup file executable**
 
    ```bash
-   chmod +x setup.sh
+   chmod +x *.sh osint.py
    ```
 
 4. **Run the setup script**
