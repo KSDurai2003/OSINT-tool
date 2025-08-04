@@ -219,7 +219,7 @@ def whois_lookup():
         print("\n📄 WHOIS Information:\n")
         for key, value in result.items():
             key=key.capitalize()
-            print("--------------",key,"----------------")
+            print("\n--------------",key,"----------------")
             if isinstance(value, list):
                 for item in value:
                     print(item)
